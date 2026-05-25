@@ -1,78 +1,111 @@
 # MVP Scope
 
-**Project:** hellenic-cosmos-roza
+**Project:** Project Roza
+**Phase:** Phase 1 — Clarity
 **Owner:** Filippos Arvanitakis
-**Reviewer:** [Name or role]
 **Last updated:** 2026-05-25
 
 ---
 
 ## 1. MVP Goal
 
-What should v1 prove or deliver?
-
-[One clear statement. Not a wish list.]
+Prove the new direction for Hellenic Cosmos clearly and beautifully enough to win approval and move into Phase 2.
 
 ---
 
 ## 2. Core Promise
 
-What must v1 deliver to feel meaningful and complete?
-
-[The irreducible minimum that makes this real.]
+A credible, coherent proposal that shows Hellenic Cosmos what it can become — and makes that future feel tangible, not theoretical.
 
 ---
 
-## 3. In Scope for v1
+## 3. Three Workstreams in Scope
 
-Must-have:
+### A. Brand Direction
 
-- [Must-have 1]
-- [Must-have 2]
-- [Must-have 3]
+- Strategic platform (Civilization on the Move)
+- Brand architecture (Exhibitions / Tholos / Learning / Live / Lab / Digital)
+- Visual identity direction — evolution of four-square grid
+- Colour system direction
+- Typography direction
+- Core icon logic
+- Tone of voice
+- One brand-in-use board
 
----
+### B. Website Prototype (3 pages only)
 
-## 4. Out of Scope for v1
+- Homepage — worldview, what's on, ecosystem navigation, ticket CTA
+- Experience Page — The Oracle as prototype candidate
+- Ecosystem / Programme Page — full institutional architecture visible
+- Navigation system
 
-Do not build yet:
+### C. Cultural Pilots (two concepts to mini-brief depth)
 
-- [Out-of-scope 1]
-- [Out-of-scope 2]
-- [Out-of-scope 3]
-
----
-
-## 5. Later / v2 Ideas
-
-Capture here, revisit after v1:
-
-- [Later idea 1]
-- [Later idea 2]
+- Ask the Oracle — concept, visitor journey, interaction logic, spatial formats, technical tiers
+- The Living Loom — concept, visitor journey, interaction logic, spatial formats, technical tiers
 
 ---
 
-## 6. Core User Journey
+## 4. In Scope for Phase 1
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-4. [Step 4]
-5. [Step 5]
-
----
-
-## 7. Definition of Done
-
-v1 is complete when:
-
-- [ ] [Condition 1]
-- [ ] [Condition 2]
-- [ ] [Condition 3]
+- Strategic positioning document
+- Visual identity direction (not final guidelines)
+- Website prototype — 3 pages (wireframe + visual direction)
+- Two cultural experiment concepts at one-pager depth
+- Revised client deck (v03 or later)
 
 ---
 
-## 8. Scope Change Rule
+## 5. Out of Scope for Phase 1
 
-Any addition to v1 scope requires removing something of equal weight.
+- Full brand guidelines
+- Full website build or CMS
+- Production-ready exhibition design
+- Technical specifications or procurement
+- Sponsorship materials
+- Greek language copy validation (flagged as required, not yet in scope)
+- Phase 2 pilot development
+- Programme calendar
+- Budget modelling for HC
+
+---
+
+## 6. Later / Phase 2–3
+
+- One pilot (Oracle or Loom) developed into serious proposal with spatial, technical and production logic
+- Full website
+- Brand guidelines
+- Programming roadmap
+- Partnership and funding materials
+- Signage and wayfinding system
+- Content engine and CMS model
+
+---
+
+## 7. Programming Model (concept only in Phase 1)
+
+**Model:** Ancient Questions. Future Formats.
+
+Annual themes — each generates: flagship exhibition + Tholos experience + cultural experiments + talks + schools + digital + commissions + sponsorship.
+
+Candidate themes: Fate / Polis / Journey / Memory / Form / Human
+
+---
+
+## 8. Definition of Done
+
+Phase 1 is complete when:
+
+- [ ] Strategic platform document delivered
+- [ ] Brand direction presented (visual identity evolution of four-square grid)
+- [ ] Three-page website prototype completed (Homepage + Experience + Ecosystem)
+- [ ] Two cultural pilot concepts at one-pager depth
+- [ ] Client deck delivered and presented to Hellenic Cosmos
+- [ ] Client feedback received
+
+---
+
+## 9. Scope Change Rule
+
+Any addition to Phase 1 scope requires removing something of equal weight.
 No silent scope expansion.
