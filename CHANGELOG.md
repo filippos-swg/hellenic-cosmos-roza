@@ -4,18 +4,42 @@ All meaningful changes to this project are documented here.
 
 ---
 
+## 2026-05-25 — Strategic Lock Pass
+
+### Updated
+- AI_HANDOFF.md — active phase changed from TASK_002 to Strategic Lock; TASK_002 blocked with explicit unlock conditions; APPROVED / RECOMMENDED / OPEN status applied throughout; primary project intent defined; pitch argument spine named; strategic risks documented; list of what must not be touched and what is waiting for human approval
+- tasks/TASK_002.md — status changed to BLOCKED; unlock conditions listed; workstream sequencing clarified (brand direction must lead before website and pilot visual work); note added that four quadrant naming must be resolved before icon system begins
+- DECISIONS.md — status key added (APPROVED / RECOMMENDED / OPEN); four new entries: Pilot Hierarchy, Pitch Argument Spine, Primary Project Intent, Canon Audit findings; all existing decisions retroactively marked with status
+
+### Canon changes
+- "Ancient Questions. Future Formats." — status corrected from implied canonical to RECOMMENDED. Was not flagged previously.
+- Ecosystem naming, six-pillar brand architecture, competitive positioning, Phase 1 nine deliverables — all explicitly marked RECOMMENDED (South North proposals, not HC-confirmed)
+- APPROVED category confirmed empty — v03 deck has not been presented to client
+
+### Notes
+- No visual production. No new files created. No content invented.
+- This pass clarifies what was already in the repo. Nothing removed.
+- TASK_002 (Brand Identity Exploration) is not deleted — it is blocked with clear unlock conditions.
+
+---
+
+## 2026-05-25 — Handoff and Task 002
+
+### Added
+- AI_HANDOFF.md — active briefing for brand identity exploration (now superseded by Strategic Lock pass above)
+- tasks/TASK_002.md — Brand Identity Exploration task (now BLOCKED)
+
+---
+
 ## 2026-05-25 — Canonical Setup
 
 ### Updated
-- PROJECT_BRIEF.md — full project context: mandate, institutional architecture, competitive positioning, phase structure, success criteria
-- MVP_SCOPE.md — Phase 1 scope: three workstreams (Brand Direction / Website Prototype / Cultural Pilots), in/out scope, definition of done
-- DECISIONS.md — eight foundational decisions: platform, positioning, brand move, ecosystem architecture, programming model, website approach, hero pilots, phase structure
-- CHANGELOG.md — this entry
+- PROJECT_BRIEF.md, MVP_SCOPE.md, DECISIONS.md, CHANGELOG.md
 
 ### Added
-- docs/CREATIVE_DIRECTION.md — complete creative system: Living System (Grid / Fragment / Route / Signal), four-square logic, quadrant symbols, colour direction, typography, tone of voice, motion, imagery, anti-references, Phase 1 deliverables
-- docs/OPEN_QUESTIONS.md — five critical blockers, five important direction questions, five exploratory questions
-- docs/PITCH_NARRATIVE.md — full deck argument structure (18 sections), argument integrity rules, working canon
+- docs/CREATIVE_DIRECTION.md
+- docs/OPEN_QUESTIONS.md
+- docs/PITCH_NARRATIVE.md
 
 ### Source Materials
 All content derived from:
@@ -25,21 +49,14 @@ All content derived from:
 - ROZA_Cultural_Experiments_Brief.md
 - Project_Roza_Hellenic_Cosmos_Recap_Next_Steps.md
 
-### Notes
-- No content invented. All sourced directly from attached materials.
-- Ambiguous items preserved as open questions, not resolved into false decisions.
-- Working platform documented as working — not final.
-- Four quadrant naming (Ideas/Craft/Polis/Cosmos vs Logos/Techne/Polis/Cosmos) preserved as unresolved.
-- Which pilot develops into Phase 2 preserved as unresolved.
-
 ---
 
 ## 2026-05-25 — Initial AIOS Setup
 
 ### Added
-- AIOS project structure installed (placeholder state)
-- README.md, PROJECT_BRIEF.md, MVP_SCOPE.md, DECISIONS.md, CHANGELOG.md, AI_HANDOFF.md
-- docs/CREATIVE_DIRECTION.md, docs/OPEN_QUESTIONS.md
+- AIOS project structure installed
+- README.md, PROJECT_BRIEF.md (placeholder), MVP_SCOPE.md (placeholder), DECISIONS.md (placeholder), CHANGELOG.md, AI_HANDOFF.md
+- docs/CREATIVE_DIRECTION.md (placeholder), docs/OPEN_QUESTIONS.md (placeholder)
 - tasks/TASK_001.md
 - assets/ directory
 
