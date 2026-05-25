@@ -28,8 +28,8 @@ Before any execution work, read these files in order:
 - The brand move: evolve the four-square grid, do not replace it
 - The website scope: three pages only (Homepage / Experience Page / Ecosystem Page)
 - The technology philosophy: technology as cultural translation, not spectacle
-- The two Phase 1 pilots: Ask the Oracle and The Living Loom
-- The pilot hierarchy: Ask the Oracle leads. The Living Loom supports.
+- The two Phase 1 concepts: Ask the Oracle and The Living Loom
+- The concept model: portfolio, not hierarchy — no single concept is canonically primary
 - The visual anti-language: what the identity must never look like (see docs/CREATIVE_DIRECTION.md)
 - The pitch argument spine: Culture → Gap → Connection → System → Proof
 
@@ -49,7 +49,7 @@ Before any execution work, read these files in order:
 - Budget and scope agreement for Phase 1
 - Presentation date
 - Greek copy sensitivity check on Πολιτισμός εν Κινήσει
-- Which pilot develops into a full Phase 2 proposal (Oracle or Loom — not yet decided)
+- Which concept(s) from the portfolio develop further (Oracle, Loom, or other — no hierarchy pre-set)
 - Navigation architecture (full vs simplified)
 - Technical tier for The Oracle
 - Year 1 annual theme
@@ -60,9 +60,22 @@ Before any execution work, read these files in order:
 
 Phase 1 is a strategic persuasion exercise, not a design brief.
 
-The primary objective is to earn HC's institutional commitment to a new worldview. The brand direction, website prototype and pilot concepts are evidence in service of that argument — not the argument itself.
+The primary objective is to earn HC's institutional commitment to a new worldview. The brand direction, website prototype and concept portfolio are evidence in service of that argument — not the argument itself.
 
-A client should leave Phase 1 thinking: we understand what we need to become, and we believe South North can help us get there. Not: we got a new logo direction.
+A client should leave Phase 1 thinking: we understand what we need to become, and we believe South North can help us get there.
+
+---
+
+## Concept Portfolio Model
+
+Cultural experiment concepts are treated as a portfolio of strategic proof-of-direction assets.
+
+Oracle, Loom and related exhibition ideas (Living Alphabet, Build the Polis, Map the Odyssey, Geometry Machine) all exist as:
+- Validation of the institutional direction
+- Inspiration for future experiences
+- Demonstrations of participatory, contemporary cultural programming
+
+No concept is canonically primary. Selection for deeper development follows client engagement and strategic fit — not a pre-determined hierarchy.
 
 ---
 
@@ -74,9 +87,9 @@ Culture → Gap → Connection → System → Proof
 2. HC has the ingredients but they read as fragments, not a system
 3. The connection move is the opportunity (not reinvention — coherence)
 4. The system is visible, named and scalable (six pillars, annual themes)
-5. The proof is tangible (pilots, prototype, identity direction)
+5. The proof is tangible (concept portfolio, prototype, identity direction)
 
-The pitch opens on cultural necessity, not institutional diagnosis. The diagnosis arrives second, after the bigger idea is established.
+The pitch opens on cultural necessity, not institutional diagnosis.
 
 ---
 
@@ -85,8 +98,9 @@ The pitch opens on cultural necessity, not institutional diagnosis. The diagnosi
 - No visual production of any kind
 - No logo explorations
 - No website mockups or wireframes
-- No pilot visual development
+- No concept visual development
 - Do not treat RECOMMENDED items as locked when briefing external collaborators
+- Do not treat any single concept as the lead or primary pilot
 
 ---
 
@@ -95,7 +109,7 @@ The pitch opens on cultural necessity, not institutional diagnosis. The diagnosi
 Before TASK_002 (Brand Identity Exploration) can begin:
 
 - [ ] Filippos confirms: primary project intent framing is correct (transformation pitch, not design brief)
-- [ ] Filippos confirms: Oracle leads, Loom supports as pilot hierarchy
+- [ ] Filippos confirms: concept portfolio model replaces hierarchy model
 - [ ] Filippos confirms or challenges: pitch argument spine (Culture → Gap → Connection → System → Proof)
 - [ ] Filippos reviews canon audit — confirms APPROVED / RECOMMENDED / OPEN status on flagged items
 - [ ] Decision: does "Ancient Questions. Future Formats." go to HC as a platform line or only as internal programming logic?
@@ -106,10 +120,10 @@ Once these are resolved, TASK_002 unlocks.
 
 ## Strategic Risks
 
-1. **The pitch gets mistaken for a design pitch.** If the deliverables (brand, website, pilots) lead the conversation before the strategic argument is made, HC will evaluate the work as execution quality, not strategic direction. The argument must land before the visuals.
+1. **The pitch gets mistaken for a design pitch.** If the deliverables lead before the strategic argument lands, HC will evaluate execution quality rather than direction. The argument must land first.
 
-2. **RECOMMENDED items get treated as locked.** Several items in the repo — ecosystem naming, competitive positioning, "Ancient Questions. Future Formats." — are South North's proposals, not client-confirmed truths. Building identity work on top of unconfirmed naming creates rework risk.
+2. **RECOMMENDED items get treated as locked.** Ecosystem naming, competitive positioning, "Ancient Questions. Future Formats." are South North proposals, not client-confirmed truths. Building identity work on top of unconfirmed naming creates rework risk.
 
-3. **The four quadrant naming branches everything.** Ideas/Craft/Polis/Cosmos vs Logos/Techne/Polis/Cosmos is not a cosmetic choice. The icon system, navigation logic and programme naming all fork on it. This must be resolved before any icon or UI work begins.
+3. **The four quadrant naming branches everything.** Ideas/Craft/Polis/Cosmos vs Logos/Techne/Polis/Cosmos is not a cosmetic choice. The icon system, navigation logic and programme naming all fork on it. Must be resolved before any icon or UI work begins.
 
-4. **Phase 1 has three parallel workstreams with no documented resource or sequencing plan.** Brand + Website + Cultural Pilots are listed as simultaneous. In practice, brand direction should lead, as website and pilot visual development both depend on it.
+4. **Phase 1 has three parallel workstreams with no documented resource or sequencing plan.** Brand direction should lead — website and concept visual development both depend on it.

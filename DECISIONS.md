@@ -12,20 +12,29 @@ Status key:
 
 ## Decision Log
 
-### 2026-05-25 — Pilot Hierarchy: Oracle Leads, Loom Supports
+### 2026-05-25 — Concept Portfolio Validation Model
 
 **Owner:** Filippos Arvanitakis / South North
-**Status:** RECOMMENDED — pending Filippos sign-off
+**Status:** RECOMMENDED
+**Supersedes:** "Pilot Hierarchy: Oracle Leads, Loom Supports" (removed)
 
 **Decision:**
-Ask the Oracle is the lead Phase 1 pilot. The Living Loom is the support pilot.
+All cultural experiment concepts — Ask the Oracle, The Living Loom, Living Alphabet, Build the Polis, Map the Odyssey, Geometry Machine — are treated as a portfolio, not a hierarchy.
 
-**Rationale:**
-The Oracle wins on: clarity (visitor proposition is instantly legible), emotional immediacy (atmospheric, personal, mysterious), visual drama (strong slide, strong photography), and pitch urgency (AI-culture intersection is the most fundable and culturally resonant intersection right now). The Loom is the stronger long-term installation but harder to communicate in a 30-second pitch moment.
+No single concept is canonically primary. Each concept is:
+- Strategic proof-of-direction
+- Inspiration for future experiences
+- Validation of institutional evolution
+- An example of participatory, contemporary cultural programming
+- An exploration asset, not a product commitment
 
-The pairing is deliberately complementary — Oracle (myth / AI / individual / uncertainty) balances Loom (craft / material / collective / memory). Both remain in Phase 1 concept development.
+Selection for deeper development (Phase 2 or beyond) follows strategic fit, client response and development depth — not a pre-determined lead/support structure.
 
-**Not decided:** Which pilot develops into a full Phase 2 proposal. Recommendation: develop both further before choosing.
+**Why:**
+Framing one concept as "lead" before the platform has HC buy-in creates dependency on a single idea. The stronger pitch argument is that the platform is generative — any of these concepts could grow into a flagship. This gives HC more agency and reduces the risk of the pitch being evaluated on whether one idea is clever rather than whether the direction is right.
+
+**What remains OPEN:**
+Which concept(s) from the portfolio develop further, and when. That decision follows client engagement.
 
 ---
 
@@ -71,7 +80,7 @@ Nothing yet. The v03 deck has not been presented to the client.
 **RECOMMENDED (South North direction — requires HC buy-in):**
 - "Civilization on the Move / Πολιτισμός εν Κινήσει" as working platform *(already flagged in original entry)*
 - "Ancient Questions. Future Formats." as programming model framing *(was not flagged — now flagged)*
-- Ecosystem naming: Exhibitions / Tholos / Learning / Live / Lab / Digital *(may reflect HC's existing structure partially, but naming is South North's proposal)*
+- Ecosystem naming: Exhibitions / Tholos / Learning / Live / Lab / Digital
 - Six-pillar brand architecture ("Hellenic Cosmos / Exhibitions", etc.)
 - Competitive positioning: Onassis / SNFCC / HC lane ownership
 - Ideas / Craft / Polis / Cosmos as four quadrant naming
@@ -81,7 +90,7 @@ Nothing yet. The v03 deck has not been presented to the client.
 - Budget and scope agreement
 - Presentation date and client approval chain
 - Greek copy sensitivity: Πολιτισμός εν Κινήσει
-- Phase 2 pilot selection (Oracle or Loom)
+- Which concept(s) from the portfolio develop further (Oracle, Loom, or other)
 - Navigation architecture (full vs simplified)
 - Technical tier for The Oracle
 - Year 1 annual theme
@@ -179,21 +188,21 @@ Candidate themes: Fate / Polis / Journey / Memory / Form / Human
 **Status:** RECOMMENDED
 
 **Decision:**
-Prototype three pages only: Homepage + Experience Page (The Oracle) + Ecosystem / Programme Page.
+Prototype three pages only: Homepage + Experience Page + Ecosystem / Programme Page.
 
 ---
 
-### 2026-05-25 — Two Hero Pilot Concepts for Phase 1
+### 2026-05-25 — Cultural Experiment Portfolio: Two Concepts for Phase 1 Development
 
 **Owner:** Filippos Arvanitakis / South North
 **Status:** RECOMMENDED
 
 **Decision:**
-Develop two cultural experiment concepts as Phase 1 pilots:
-1. Ask the Oracle
-2. The Living Loom / Weave the Cosmos
+Develop two concepts from the portfolio to Phase 1 depth: Ask the Oracle and The Living Loom / Weave the Cosmos.
 
-Both remain in Phase 1 concept development. Phase 2 pilot selection is OPEN.
+These two are selected for Phase 1 development because they are the most developed and provide deliberate contrast: myth / AI / individual / uncertainty vs craft / material / collective / memory. Both are exploration assets. Neither is a product commitment.
+
+Phase 2 selection from the portfolio is OPEN.
 
 ---
 
@@ -205,7 +214,7 @@ Both remain in Phase 1 concept development. Phase 2 pilot selection is OPEN.
 **Decision:**
 Three-phase structure:
 - Phase 1 — Clarity: positioning + identity direction + digital prototype + two pilot concepts
-- Phase 2 — Proof: one developed pilot + website prototype + audience and sponsor logic
+- Phase 2 — Proof: one developed concept + website prototype + audience and sponsor logic
 - Phase 3 — System: full programming model + partnerships + content engine + roadmap
 
 ---
