@@ -4,59 +4,56 @@ All meaningful changes to this project are documented here.
 
 ---
 
-## 2026-05-25 — Portfolio Correction
+## 2026-05-25 — Sequencing Correction
 
 ### Updated
-- DECISIONS.md — "Pilot Hierarchy: Oracle Leads, Loom Supports" replaced by "Concept Portfolio Validation Model"; canon audit OPEN section updated to reflect portfolio framing; Phase 1 pilot entry reworded to remove hierarchy language
-- AI_HANDOFF.md — pilot hierarchy removed from locked items; "Concept Portfolio Model" section added; what-must-not-be-touched updated to include "do not treat any single concept as lead"; waiting-for-approval item updated from hierarchy confirmation to portfolio model confirmation
-- docs/OPEN_QUESTIONS.md — "Which pilot develops into Phase 2" reworded to "Which concept(s) develop further" to reflect portfolio model
+- tasks/TASK_002.md — rewritten from "Brand Identity Exploration (BLOCKED)" to "Strategic Pitch Refinement / First Presentable Deck (Not started)"; full pressure-test criteria, output format and constraints defined
+- AI_HANDOFF.md — active task updated to TASK_002 (deck); Phase 1 execution order made explicit (Deck → Identity → Website → Portfolio); "what must not be touched" updated; BLOCKED state removed
+- DECISIONS.md — new entry: Phase 1 Execution Sequencing (identity is proof of strategy, not the starting point)
 - CHANGELOG.md — this entry
 
 ### What changed
-No content removed from the repo. The hierarchy framing (Oracle leads / Loom supports) was superseded — Oracle and Loom remain the two Phase 1 development concepts, but without rank.
+TASK_002 is no longer Brand Identity Exploration. It is Strategic Pitch Refinement. Brand Identity Exploration moves to TASK_003 (not yet created — no extra files until TASK_002 is complete).
 
 ### Notes
-No new files. No visual production. Canon correction only.
+No new files. No visual production. Sequencing correction only.
+
+---
+
+## 2026-05-25 — Portfolio Correction
+
+### Updated
+- DECISIONS.md — pilot hierarchy replaced by Concept Portfolio Validation Model
+- AI_HANDOFF.md — portfolio model added; hierarchy language removed
+- docs/OPEN_QUESTIONS.md — pilot hierarchy question reworded to portfolio framing
+- CHANGELOG.md
 
 ---
 
 ## 2026-05-25 — Strategic Lock Pass
 
 ### Updated
-- AI_HANDOFF.md — active phase, TASK_002 blocked, APPROVED/RECOMMENDED/OPEN status, primary intent, pitch spine, risks
-- tasks/TASK_002.md — status BLOCKED with unlock conditions
-- DECISIONS.md — status key, four new entries: Pilot Hierarchy (now superseded), Pitch Spine, Primary Intent, Canon Audit
-- CHANGELOG.md
-
----
-
-## 2026-05-25 — Handoff and Task 002
-
-### Added
-- AI_HANDOFF.md — active briefing for brand identity exploration
-- tasks/TASK_002.md — Brand Identity Exploration task (now BLOCKED)
+- AI_HANDOFF.md, tasks/TASK_002.md, DECISIONS.md, CHANGELOG.md
+- Applied APPROVED / RECOMMENDED / OPEN status throughout
+- Added: pitch argument spine, primary project intent, canon audit
 
 ---
 
 ## 2026-05-25 — Canonical Setup
 
-### Updated
+### Updated / Added
 - PROJECT_BRIEF.md, MVP_SCOPE.md, DECISIONS.md, CHANGELOG.md
-
-### Added
 - docs/CREATIVE_DIRECTION.md, docs/OPEN_QUESTIONS.md, docs/PITCH_NARRATIVE.md
 
 ### Source Materials
-All content derived from: Strategy deck v03 PDF, Brand Direction Brief, Website Prototype Brief, Cultural Experiments Brief, Recap & Next Steps.
+Strategy deck v03 PDF / Brand Direction Brief / Website Prototype Brief / Cultural Experiments Brief / Recap & Next Steps
 
 ---
 
 ## 2026-05-25 — Initial AIOS Setup
 
 ### Added
-- AIOS project structure installed
-- README.md, PROJECT_BRIEF.md, MVP_SCOPE.md, DECISIONS.md, CHANGELOG.md, AI_HANDOFF.md
-- docs/CREATIVE_DIRECTION.md, docs/OPEN_QUESTIONS.md, tasks/TASK_001.md, assets/
+- AIOS project structure: README.md, PROJECT_BRIEF.md, MVP_SCOPE.md, DECISIONS.md, CHANGELOG.md, AI_HANDOFF.md, docs/, tasks/, assets/
 
 ---
 

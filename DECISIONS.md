@@ -12,6 +12,29 @@ Status key:
 
 ## Decision Log
 
+### 2026-05-25 — Phase 1 Execution Sequencing
+
+**Owner:** Filippos Arvanitakis / South North
+**Status:** RECOMMENDED
+
+**Decision:**
+Phase 1 executes in this order:
+
+1. Strategic Pitch Refinement (TASK_002) — deck locked first
+2. Brand Identity Exploration (TASK_003) — after deck is locked
+3. Website Prototype (TASK_004) — after brand direction established
+4. Cultural Portfolio Development (TASK_005) — after website logic established
+
+Identity is proof of strategy. It does not start the process.
+
+**Why:**
+If identity work leads before the strategic argument lands, the client evaluates execution quality rather than direction quality. The pitch earns buy-in; the identity, prototype and portfolio make that buy-in visible and credible. Building those assets before the argument is locked creates rework risk.
+
+**Practical consequence:**
+No visual production, no logo exploration, no website mockups, and no concept visual development until TASK_002 output is reviewed and confirmed by Filippos.
+
+---
+
 ### 2026-05-25 — Concept Portfolio Validation Model
 
 **Owner:** Filippos Arvanitakis / South North

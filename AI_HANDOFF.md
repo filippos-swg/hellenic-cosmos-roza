@@ -2,27 +2,37 @@
 
 **Project:** Project Roza / Hellenic Cosmos
 **Last updated:** 2026-05-25
-**Active phase:** Phase 0 — Strategic Lock
-**Active task:** Strategic lock complete — repo canon updated
-**Next task:** TASK_002 (Brand Identity Exploration) — BLOCKED. See unlock conditions below.
+**Active phase:** Phase 1 — Clarity
+**Active task:** TASK_002 — Strategic Pitch Refinement / First Presentable Deck
+**Status:** Ready. Not started.
 
 ---
 
 ## Read First
 
-Before any execution work, read these files in order:
+Before working, read these files in order:
 
 1. PROJECT_BRIEF.md
-2. DECISIONS.md — pay attention to APPROVED / RECOMMENDED / OPEN status on each entry
-3. docs/CREATIVE_DIRECTION.md
-4. docs/PITCH_NARRATIVE.md
-5. MVP_SCOPE.md
+2. DECISIONS.md — note APPROVED / RECOMMENDED / OPEN status on every entry
+3. docs/PITCH_NARRATIVE.md
+4. MVP_SCOPE.md
+
+---
+
+## Phase 1 Execution Order
+
+1. **TASK_002 — Strategic Pitch Refinement** ← active now
+2. **TASK_003 — Brand Identity Exploration** ← after deck is locked
+3. **TASK_004 — Website Prototype** ← after brand direction established
+4. **TASK_005 — Cultural Portfolio Development** ← after website logic established
+
+Identity becomes proof of strategy. It does not lead.
 
 ---
 
 ## Current State
 
-### What is locked (internal South North — no client confirmation required to proceed)
+### What is locked (internal South North — no client confirmation required)
 
 - The diagnostic: HC's problem is fragmentation and lack of worldview, not lack of content
 - The brand move: evolve the four-square grid, do not replace it
@@ -32,27 +42,28 @@ Before any execution work, read these files in order:
 - The concept model: portfolio, not hierarchy — no single concept is canonically primary
 - The visual anti-language: what the identity must never look like (see docs/CREATIVE_DIRECTION.md)
 - The pitch argument spine: Culture → Gap → Connection → System → Proof
+- Phase 1 execution order: Deck → Identity → Website → Portfolio
 
-### What is RECOMMENDED (South North direction — requires HC buy-in before full execution)
+### What is RECOMMENDED (requires HC buy-in before treating as fixed)
 
 - Working platform: "Civilization on the Move / Πολιτισμός εν Κινήσει"
 - "Ancient Questions. Future Formats." as programming model framing
 - Ecosystem naming: Exhibitions / Tholos / Learning / Live / Lab / Digital
-- Six-pillar brand architecture naming ("Hellenic Cosmos / Exhibitions", etc.)
-- Competitive positioning: Onassis owns cultural intelligence / SNFCC owns civic infrastructure / HC owns civilization as living system
+- Six-pillar brand architecture naming
+- Competitive positioning: Onassis / SNFCC / HC lane ownership
 - Ideas / Craft / Polis / Cosmos as four quadrant naming
 - Phase 1 nine visual deliverables as proposed scope
 
 ### What is OPEN (requires human decision)
 
-- Client approval chain — who at HC signs off on strategic direction
-- Budget and scope agreement for Phase 1
-- Presentation date
+- Client approval chain and presentation date
+- Budget and scope agreement
 - Greek copy sensitivity check on Πολιτισμός εν Κινήσει
-- Which concept(s) from the portfolio develop further (Oracle, Loom, or other — no hierarchy pre-set)
+- Which concept(s) from the portfolio develop further
 - Navigation architecture (full vs simplified)
 - Technical tier for The Oracle
 - Year 1 annual theme
+- Whether "Ancient Questions. Future Formats." is a client-facing line or internal logic only
 
 ---
 
@@ -60,70 +71,33 @@ Before any execution work, read these files in order:
 
 Phase 1 is a strategic persuasion exercise, not a design brief.
 
-The primary objective is to earn HC's institutional commitment to a new worldview. The brand direction, website prototype and concept portfolio are evidence in service of that argument — not the argument itself.
-
-A client should leave Phase 1 thinking: we understand what we need to become, and we believe South North can help us get there.
+The primary objective is to earn HC's institutional commitment to a new worldview. The deck is the primary instrument. Brand direction, website prototype and concept portfolio are evidence in service of the argument — not the argument itself.
 
 ---
 
 ## Concept Portfolio Model
 
-Cultural experiment concepts are treated as a portfolio of strategic proof-of-direction assets.
-
-Oracle, Loom and related exhibition ideas (Living Alphabet, Build the Polis, Map the Odyssey, Geometry Machine) all exist as:
-- Validation of the institutional direction
-- Inspiration for future experiences
-- Demonstrations of participatory, contemporary cultural programming
-
-No concept is canonically primary. Selection for deeper development follows client engagement and strategic fit — not a pre-determined hierarchy.
+All cultural experiment concepts — Oracle, Loom, and related ideas — are treated as a portfolio of proof-of-direction assets. No single concept is canonically primary. Selection for deeper development follows client engagement and strategic fit.
 
 ---
 
-## Pitch Argument Spine
-
-Culture → Gap → Connection → System → Proof
-
-1. The cultural moment is real (civilization still moves, meaning beats technology)
-2. HC has the ingredients but they read as fragments, not a system
-3. The connection move is the opportunity (not reinvention — coherence)
-4. The system is visible, named and scalable (six pillars, annual themes)
-5. The proof is tangible (concept portfolio, prototype, identity direction)
-
-The pitch opens on cultural necessity, not institutional diagnosis.
-
----
-
-## What Must Not Be Touched Yet
+## What Must Not Be Touched Until Deck Is Locked
 
 - No visual production of any kind
 - No logo explorations
 - No website mockups or wireframes
 - No concept visual development
 - Do not treat RECOMMENDED items as locked when briefing external collaborators
-- Do not treat any single concept as the lead or primary pilot
-
----
-
-## What Is Waiting for Human Approval
-
-Before TASK_002 (Brand Identity Exploration) can begin:
-
-- [ ] Filippos confirms: primary project intent framing is correct (transformation pitch, not design brief)
-- [ ] Filippos confirms: concept portfolio model replaces hierarchy model
-- [ ] Filippos confirms or challenges: pitch argument spine (Culture → Gap → Connection → System → Proof)
-- [ ] Filippos reviews canon audit — confirms APPROVED / RECOMMENDED / OPEN status on flagged items
-- [ ] Decision: does "Ancient Questions. Future Formats." go to HC as a platform line or only as internal programming logic?
-
-Once these are resolved, TASK_002 unlocks.
+- Do not treat any single concept as lead or primary
 
 ---
 
 ## Strategic Risks
 
-1. **The pitch gets mistaken for a design pitch.** If the deliverables lead before the strategic argument lands, HC will evaluate execution quality rather than direction. The argument must land first.
+1. **The pitch gets mistaken for a design pitch.** If deliverables lead before the argument lands, HC evaluates execution quality rather than direction. The deck must earn agreement before identity work is shown.
 
-2. **RECOMMENDED items get treated as locked.** Ecosystem naming, competitive positioning, "Ancient Questions. Future Formats." are South North proposals, not client-confirmed truths. Building identity work on top of unconfirmed naming creates rework risk.
+2. **RECOMMENDED items get treated as locked.** Ecosystem naming, competitive positioning, "Ancient Questions. Future Formats." are South North proposals. Building on unconfirmed naming creates rework risk.
 
-3. **The four quadrant naming branches everything.** Ideas/Craft/Polis/Cosmos vs Logos/Techne/Polis/Cosmos is not a cosmetic choice. The icon system, navigation logic and programme naming all fork on it. Must be resolved before any icon or UI work begins.
+3. **The four quadrant naming branches everything.** Ideas/Craft/Polis/Cosmos vs Logos/Techne/Polis/Cosmos is not cosmetic — icon system, navigation and programme naming all fork on it. Resolve before TASK_003 icon work begins.
 
-4. **Phase 1 has three parallel workstreams with no documented resource or sequencing plan.** Brand direction should lead — website and concept visual development both depend on it.
+4. **Three parallel workstreams, no documented resource plan.** Sequencing is now explicit (deck first). Within TASK_003 onwards: brand direction leads before website or concept visual work.
